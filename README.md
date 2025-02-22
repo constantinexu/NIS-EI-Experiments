@@ -38,12 +38,6 @@ The experiments use the **Neural Information Squeezer (NIS)** framework to compu
 - **Interpretability**: The decomposition of EI into input entropy, noise, and sensitivity provides clear insights into the information processing capabilities of the network.
 - **Robustness**: The method is robust to low-probability regions in the input space, which are often poorly estimated by traditional methods.
 
-## Results
-
-The results are visualized in the notebooks, showing how EI evolves with training epochs for each layer. Key observations include:
-- **MNIST Task**: EI values stabilize over time, with significant changes in hidden layers.
-- **IRIS Task**: EI values converge quickly, reflecting the simplicity of the dataset.
-
 ## Usage
 
 1. Clone the repository:
