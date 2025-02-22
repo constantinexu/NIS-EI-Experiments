@@ -1,11 +1,10 @@
 # NIS-EI-Experiments
-Here’s the updated `README.md` with a clear emphasis on the **Effective Information (EI) calculation method for artificial neural networks** and its advantages over traditional mutual information methods:
-
----
 
 # NIS Experiments: Effective Information (EI) Analysis in Artificial Neural Networks
 
 This repository implements the **Neural Information Squeezer (NIS)** framework to analyze **Effective Information (EI)** in artificial neural networks (ANNs) for two tasks: **IRIS Classification** and **MNIST Classification**. The experiments demonstrate how EI evolves across different layers of the network during training, providing insights into the information processing capabilities of ANNs.
+
+![Uploading NIS-EI实验.png…]()
 
 ## Repository Structure
 
