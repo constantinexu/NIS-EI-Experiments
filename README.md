@@ -4,8 +4,6 @@
 
 This repository implements the **Neural Information Squeezer (NIS)** framework to analyze **Effective Information (EI)** in artificial neural networks (ANNs) for two tasks: **IRIS Classification** and **MNIST Classification**. The experiments demonstrate how EI evolves across different layers of the network during training, providing insights into the information processing capabilities of ANNs.
 
-![Uploading NIS-EI实验.png…]()
-
 ## Repository Structure
 
 - **`NIS-IRIS.ipynb`**: Jupyter Notebook for the IRIS classification task using a 4-layer neural network (4→5→5→3).
